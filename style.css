@@ -14,7 +14,7 @@ section {
     display: grid;
     place-items: center;
     align-content: center;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .hidden {
